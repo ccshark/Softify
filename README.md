@@ -3,7 +3,7 @@
 ### Installera Mopidy: 
 
 ```
-https://docs.mopidy.com/en/latest/installation/
+https://docs.mopidy.com/en/latest/installation/debian/#installing-extensions
 ```
 
 Gör tillägg för Spotify
