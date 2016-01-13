@@ -8,7 +8,8 @@ https://docs.mopidy.com/en/latest/installation/
 
 Gör tillägg för Spotify
 
-Lägg till konto för spotify och öppna upp för stream i config filen.
+Lägg till konto för spotify och öppna upp för stream i config filen, 
+enligt dokumentationen för Mopidy.
 
 
 ### Installera Moped:
@@ -16,3 +17,4 @@ Lägg till konto för spotify och öppna upp för stream i config filen.
 ```
 https://github.com/martijnboland/moped
 ```
+
